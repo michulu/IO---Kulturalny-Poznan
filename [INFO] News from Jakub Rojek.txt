@@ -1,0 +1,143 @@
+-------------------------------------------------------------------------
+[23.12.2014 10:16]
+
+Dzieñ dobry
+
+Na ostatnich zajêciach wspomina³em o zadaniu zwi¹zanym z UML, w którym s¹
+Pañstwo proszeni o zrobienie diagramu klas dla swojego oprogramowania oraz
+diagramu stanów dla obiektów biznesowych i obiektów, które generalnie mog¹
+byæ w jakichœ stanach.
+
+Pe³ne polecenie do zadania znajduje siê w materia³ach do drugich zajêæ z
+UML na Moodle'u. Wa¿niejsze uwagi:
+
+1. Termin (wysy³am tego maila tylko do grup pi¹tkowych) to 16 stycznia
+2015 roku, do godziny 23:59:59. Oczywiœcie, znowu naliczane bêd¹ kary za
+opóŸnienie.
+2. Diagram klas powinien byæ jeden, ale w razie du¿ej wielkoœci mo¿na go
+podzieliæ na mniejsze fragmenty i daæ "wskazówki" co do ich poprawnego
+po³¹czenia. Diagramy stanów powinny byæ osobne dla ka¿dego rozpatrywanego
+obiektu.
+3. Bêdê ocenia³ g³ównie poprawnoœæ notacji UML, natomiast mogê te¿ mieæ
+czasami w¹tpliwoœci co do zaproponowanej struktury, jednak postaram siê
+traktowaæ to znacznie ³agodniej.
+4. Dajê dowolnoœæ co do programu do robienia diagramów, ale proszê
+przesy³aæ mi pliki wynikowe, które nie bêd¹ wymaga³y ode mnie instalowania
+¿adnych specyficznych aplikacji ani takich, których nie mo¿na wyœwietliæ
+offline. Proszê te¿ pamiêtaæ, ¿eby szczegó³y by³y bezpoœrednio widoczne
+nawet po powiêkszeniu (chodzi o to, abym siê bez problemu móg³ doczytaæ
+poszczególne elementy).
+5. Proszê nie ograniczaæ siê tylko do klas z danymi, ale tak¿e zawrzeæ
+klasy, które reprezentuj¹ jak¹œ logikê.
+6. Proszê zawrzeæ opis diagramów, który u³atwi mi rozeznanie siê w tym, co
+jest czym. Nie musi to byæ d³ugi tekst - bardziej chodzi o to, abym w
+przypadku w¹tpliwoœci mia³ mo¿liwoœæ dowiedzenia siê "co autor mia³ na
+myœli".
+
+Przypominam te¿ o terminie 31 grudnia br. 23:59:59 na dokument z NFRami +
+prototypy. W razie pytañ co do któregokolwiek zadania, proszê œmia³o
+pisaæ.
+
+Pozdrawiam,
+Jakub Rojek
+
+-------------------------------------------------------------------------
+[14.11.2014 21:18]
+
+Dobry wieczór
+
+Aby by³a pe³na jasnoœæ co do zajêæ w nastêpnych dwóch tygodniach
+(zw³aszcza co do miniprojektu i koniecznoœci uczestniczenia w takich
+zajêciach ca³ym zespo³em, który czasami sk³ada siê z osób z ró¿nych grup
+laboratoryjnych), przesy³am poni¿sze zestawienie:
+
+18.11 - zajêcia z przypadków u¿ycia (niezwi¹zane z miniprojektem), grupy
+I1.2, I2.2
+21.11 - zajêcia z przypadków u¿ycia (niezwi¹zane z miniprojektem), grupy
+I4.1, I3.1
+25.11 - zajêcia z przypadków u¿ycia (zwi¹zane z miniprojektem - proszê
+stawiæ siê ca³ymi zespo³ami), grupy I1.2, I2.2
+28.11 - zajêcia z przypadków u¿ycia (zwi¹zane z miniprojektem - proszê
+stawiæ siê ca³ymi zespo³ami), grupy I4.1, I3.1
+
+Przy okazji chcia³em te¿ uspokoiæ zespo³y z grup wtorkowych co do
+dokumentów z opisem projektów - od wszystkich zespo³ów dosta³em pliki na
+czas, dziêkujê. Postaram siê sprawdziæ je jak najszybciej, choæ nie
+obiecujê, ¿e zd¹¿ê to zrobiæ do nastêpnych zajêæ.
+
+Przypominam te¿ zespo³om z grup pi¹tkowych o terminie dostarczenia
+dokumentu z opisem projektu - jest to 22 listopada br. do godziny 23:59.
+Za ka¿dy dzieñ opóŸnienia odejmujê 0,5 punkta (ca³y dokument jest na 10
+punktów).
+
+Pozdrawiam,
+Jakub Rojek
+
+-------------------------------------------------------------------------
+[30.10.2014 19:46]
+
+Dobry wieczór
+
+Mam parê og³oszeñ na najbli¿szy czas.
+
+1. Wed³ug spisu tygodni dostêpnego na stronie wydzia³owej, jutro (tj. 31
+paŸdziernika br.) grupy pi¹tkowe nie maj¹ zajeæ. W zwi¹zku z tym, rozk³ad
+zajêæ z moim udzia³em wygl¹da nastêpuj¹co:
+
+Wtorek, 04.11 - grupy I1.2, I2.2, zajêcia z miniprojektu (proszê stawiæ
+siê ca³ymi grupami)
+Pi¹tek, 07.11 - grupy I4.1, I3.1, zajêcia z Mercuriala
+Wtorek, 11.11 - grupy I1.2 i I2.2 maj¹ wolne
+Pi¹tek, 14.11 - grupy I4.1, I3.1, zajêcia z miniprojektu (proszê stawiæ
+siê ca³ymi grupami)
+
+2. Przypominam grupom I1.2 i I2.2 o przerobieniu zadañ z Mercuriala.
+Jeszcze raz przepraszam za brak mo¿liwoœci przeprowadzenia normalnych
+zajêæ w miniony wtorek.
+
+3. Jeœli jakaœ osoba nie dosta³a jeszcze swoich danych do konta na
+repozytorium SVN, proszê o zg³oszenie siê drog¹ mailow¹. Wyj¹tkiem s¹ trzy
+nowe osoby na pi¹tkowych zajêciach o 9:45 - dla nich jeszcze nie mam
+konta.
+
+4. Po wtorkowej naradzie z reszt¹ prowadz¹cych IO1 przyznajê, ¿e trochê
+Pañstwa nieœwiadomie wprowadzi³em w b³¹d jeœli chodzi o dostêpne
+technologie w miniprojekcie. Na IO2 bêd¹ Pañstwo w ramach przerabianych
+tematów robili ró¿norakie zadania przy swoich miniprojektach, jak np.
+testy jednostkowe, akceptacyjne itd. Przyk³ady bêd¹ w jêzyku Java, co nie
+oznacza, ¿e trzeba siê koniecznie jej trzymaæ. Natomiast, powinno siê
+zadbaæ o to, aby wybraæ taki jêzyk i narzêdzia, aby mo¿liwe by³o
+przeprowadzenie np. testów jednostkowych. Co wiêcej, poleca siê w³¹czyæ
+(jeœli ktoœ tego nie za³o¿y³) w zakres swojego miniprojektu aplikacjê
+webow¹, aby móc wykorzystaæ Selenium czy inne narzêdzia do automatycznych
+testów akceptacyjnych. Jeœli znajd¹ Pañstwo zamienniki (a pewnie Pañstwo
+jakieœ znajd¹, np. autom. testy akceptacyjne na aplikacje mobilne), to nie
+ma problemu, ale przy jakichœ mniej standardowych technologiach troszkê
+Pañstwo bêd¹ ryzykowaæ.
+
+5. Dziêkujê za nadsy³ane pomys³y na miniprojekt. Z grupami wtorkowymi
+rozmawia³em ju¿ na niedosz³ych zajêciach z Mercuriala i wiêkszoœci da³em
+wstêpne zielone œwiat³o (mam nadziejê, ¿e uda mi siê powysy³aæ maile do
+wszystkich grup do czasu nastêpnych zajêæ). Najwa¿niejsze, aby pomys³ by³
+odpowiedzi¹ na jakiœ problem czy zadanie, a nie by³ projektem tylko po to,
+aby byæ fajnym projektem (st¹d z bólem serca odrzuci³em grê wideo jednej
+grupie - to jest œwietna idea, ale nie na miniprojekt). Proszê traktowaæ
+to jako produkt, który (teoretycznie lub praktycznie) chcielibyœcie
+Pañstwo kiedyœ sprzedaæ lub mieæ szansê czerpaæ z tego korzyœci
+(oczywiœcie, to w ¿aden sposób nie jest obowi¹zkiem - mo¿na tylko tak o
+tym myœleæ, jak o ka¿dym startupie).
+
+6. Mówi³em te¿ o tym, ¿e to, co Pañstwo za³o¿¹ w tym semestrze, ¿e uda siê
+zrealizowaæ w drugim, musi faktycznie powstaæ. Proszê byæ realistami i nie
+obiecywaæ gruszek na wierzbie, jeœli widaæ go³ym okiem, ¿e to wszystko nie
+ma prawa powstaæ z za³o¿onym czasie. To nie oznacza, ¿e bêd¹ Pañstwo
+karani (zbyt mocno) za niezrealizowanie czegoœ - celem miniprojektu jest
+te¿ uœwiadomienie tego, jak¹ rolê odgrywa wybór wymagañ do realizacji i
+odpowiedni plan.
+
+7. Ju¿ paru osobom siê zdarzy³o, wiêc mo¿e napiszê to tutaj wszystkim. Mój
+adres e-mail to: jakub.rojek@cs.put.poznan.pl. Tam jest "cs", a nie
+"student" :)
+
+Pozdrawiam,
+Jakub Rojek
