@@ -1,0 +1,208 @@
+Micha³ Ratajczak <michal.krzysztof.ratajczak(ma³pa)gmail.com>	24 listopada 2014 23:48
+Do: jakub.rojek(ma³pa)cs.put.poznan.pl
+Dobry Wieczór,
+
+Przesy³amy Panu w za³¹czniku opis naszego projektu.
+
+Serdecznie Pozdrawiamy,
+
+Micha³ Ratajczak
+Witold Janik
+Micha³ Zdunek
+
+		Kulturalny Poznañ.pdf
+136K
+
+-------------------------------------------------------------------------------------
+
+
+Jakub.Rojek(ma³pa)cs.put.poznan.pl <Jakub.Rojek(ma³pa)cs.put.poznan.pl>	27 listopada 2014 19:56
+Do: "\"Micha³ Ratajczak\"" <michal.krzysztof.ratajczak(ma³pa)gmail.com>
+Dobry wieczór
+
+Dziêkujê za dokument. Po przeczytaniu mam nastêpuj¹ce uwagi:
+
+1. W opisie problemu (i póŸniej równie¿) powinniœmy raczej u¿ywaæ strony
+biernej - wygl¹da to wtedy trochê profesjonalnej. Z kolei forma "my" jest
+ciut bli¿sza u¿ytkownikom. To jest zawsze problematyczny wybór, choæ
+prywatnie jestem fanem pierwszego rozwi¹zania przy takich dokumentach.
+Tutaj wydaje mi siê to ciut zbyt osobiste.
+2. Ostatnie zdanie z sekcji problemu trochê ju¿ wchodzi w zakres nastêpnej
+sekcji. Tam z kolei nie powinniœmy zaczynaæ od "portalu internetowego",
+tylko najpierw przedstawiæ po prostu cel. Dopiero potem, w drugiej
+kolejnoœci, mo¿na opowiedzieæ o zarysie rozwi¹zania, czyli o tym, ¿e
+bêdzie to portal internetowy.
+3. Uwaga stylistyczna - aktorzy mogliby byæ wypunktowani, ³atwiej by siê
+to czyta³o. Zmieni³bym mo¿e te¿ nazwê "œwie¿ak" na "Widz", bo obecnie
+brzmi to trochê dziwnie.
+4. SZBD MySQL nie jest systemem, od którego siê Panowie uzale¿niaj¹, bo to
+jest system zarz¹dzania baz¹ danych, który wybieracie. Facebook API i
+Google API to inna sprawa, choæ tutaj dobrze by by³o opisaæ, dlaczego
+bêdziecie korzystaæ z tych API. Natomiast nie bardzo rozumiem "parsera
+stron internetowych" - to Panowie nie mieli pisaæ tych parserów na ró¿ne
+strony internetowe? Jeœli tak, to tutaj uzale¿niacie siê nie od parserów
+(bo to Wy je tworzycie), ale od tych stron internetowych.
+5. Brakuje mi trochê choæ jednozdaniowych opisów aktorów i tego, czym siê
+ró¿ni¹.
+
+Ogólnie dokument jest krótki, ale treœciwy i ³adnie opisany, co jest
+najwa¿niejszy. Wielka szkoda, ¿e Panowie zwlekali z jego wys³aniem 2 dni,
+przez co jest jeden punkt kary.
+
+Oceniam dokument na 7,75 punkta na 10 mo¿liwych (8,75 - 1 za opóŸnienie)
+
+Pozdrawiam,
+Jakub Rojek
+
+
+-------------------------------------------------------------------------------------
+
+
+Micha³ Ratajczak <michal.krzysztof.ratajczak(ma³pa)gmail.com>	4 stycznia 2015 22:57
+Do: Jakub.Rojek(ma³pa)cs.put.poznan.pl
+Dobry Wieczór,
+
+Przesy³am Panu w za³¹czniku zaleg³y projekt z przypadków u¿ycia.
+
+Serdecznie Pozdrawiam,
+Micha³ Ratajczak
+
+		KulturalnyPoznan.pdf
+297K
+
+-------------------------------------------------------------------------------------
+
+
+Jakub.Rojek(ma³pa)cs.put.poznan.pl <Jakub.Rojek(ma³pa)cs.put.poznan.pl>	5 stycznia 2015 16:31
+Do: "\"Micha³ Ratajczak\"" <michal.krzysztof.ratajczak(ma³pa)gmail.com>
+Dzieñ dobry
+
+Dziêkujê za nades³ane zadanie. Po przeczytaniu mam nastêpuj¹ce uwagi:
+
+1. Wspomina³em o tym, ¿e zdecydowanie lepiej u¿ywaæ strony biernej w
+takich dokumentach, a nie pisaæ w pierwszej osobie liczby mnogiej ("my").
+Takie teksty wygl¹daj¹ wtedy bardziej profesjonalnie.
+2. Mimo wszystko przyda³oby siê przypomnienie "przeznaczenia"
+poszczególnych aktorów. To dobre wprowadzenie do wymagañ i zwykle taki
+"wstêp" te¿ siê dodaje, aby by³a pe³na informacja w jednym dokumencie nt.
+ca³ego œrodowiska. Czy niektórzy aktorzy nie powinny dziedziczyæ po sobie?
+3. Doda³bym chocia¿ 1-2 zdania opisu do ka¿dego obiektu biznesowego, po co
+tak naprawdê go wyró¿niamy i dlaczego jest wa¿ny z punktu widzenia celów
+systemu. Czêsto jest to oczywiste, ale i tak warto to odnotowaæ.
+4. Poniewa¿ przypadki u¿ycia opisuj¹ wymagania funkcjonalne,
+identyfikatory musz¹ siê zgadzaæ. Nie mo¿e byæ tak, ¿e PC01 jest na liœcie
+wymagañ funkcjonalnych, a w przypadkach u¿ycia ju¿ UC01.
+5. Coœ ma³o tych wymagañ - to przypadków u¿ycia mia³o byæ co namniej 10,
+ale wymagañ funkcjonalnych tyle, ile mo¿na ju¿ na tym etapie wyró¿niæ.
+Gdzie jest choæby usuniêcie oferty (bo podejrzewam, ¿e taka opcja powinna
+byæ), odmówienie rezerwacja biletu czy rezygnacja z konta specjalnego?
+Zmienianie wygl¹du systemu wygl¹da te¿ na trochê zbyt ogólne, ale to
+zale¿y od rozwi¹zania tego w przypadku u¿ycia.
+6. Po diagramie przypadków u¿ycia widaæ wyraŸnie, ¿e jednak niektórzy
+aktorzy s¹ specjalizacj¹ innych. Do wielu wymagañ odnosi siê wiele aktorów
+i podejrzewam, ¿e nastêpuje to w tym samym celu. W zwi¹zku z tym,
+zazwyczaj robi siê to tak, ¿e bardziej specyficzny aktor dziedziczy po tym
+ogólniejszym i jedynie z tym drugim jest zwi¹zane dane wymaganie (a aktor
+specyficzny po nim to "dziedziczy" - tak jak w programowaniu obietowym).
+9. UC01: Zdecydowanie za krótki przypadek u¿ycia. Z tego powodu doda³bym
+tutaj punkty zwi¹zane z filtrowaniem ofert albo po³¹czy³ wymaganie z
+wyœwietleniem jednej oferty, gdzie "przejœcie" przez listê ofert jest
+koniecznie. Wtedy by wygl¹da³o to tak:
+
+1. Goœæ wybiera opcjê wyœwietlenia ofert.
+2. System wyœwietla oferty.
+3. Goœæ wybiera jedn¹ z ofert.
+4. System prezentuje informacje zwi¹zane z dan¹ ofert¹.
+
+Generalnie polecam wymagania funkcjonalne odnosiæ do pojedynczych
+obiektów, chyba ¿e chodzi konkretnie o listowanie pewnych rzeczy i nie
+mo¿na tego zaprojektowaæ inaczej.
+10. UC02: Tutaj podobna uwaga co do poprzedniego przypadku u¿ycia - mo¿e
+dotyczyæ to liczby mnogiej obiektów, ale zwykle dotyczy pojedynczej, bo po
+prostu lepiej to wygl¹da. Natomiast bardziej mnie martwi, ¿e tak naprawdê
+UC01 i UC02 to jest to samo, tylko ró¿nie przedstawione - po po³¹czeniu
+tych dwóch wymagañ tak naprawdê ca³a potrzebna funkcjonalnoœæ w tym
+aspekcie jest ju¿ "pokryta". Jeszcze taka drobnostka - rozszerzenie 4.A
+bardziej pasuje do punktu 5., bo wtedy System weryfikuje w tle formularz.
+4.B jest dobrze, a z kolei 5.A bardziej pasuje do punktu 4.
+11. UC03: Brakuje jakiegoœ potwierdzenia sukcesu operacji w formie
+komunikatu dla u¿ytkownika. Nie wiem te¿, czy tutaj nie trzeba by by³o
+zaakcentowaæ choæby wyboru kategorii oferty, bo to mo¿e byæ istotne. Co do
+rozszerzeñ, to mam takie same uwagi jak przy UC02 - nie bêdê potem jednak
+ju¿ powtarza³ tego, bo wiedz¹ Panowie, o co chodzi.
+12. UC04: Tak siê zawsze zastanawia³em, czy czasem nie powinno byæ
+najpierw akceptacji regulaminu, a potem wype³niania danych. W koñcu, mo¿e
+siê okazaæ, ¿e u¿ytkownik wpisze swoje dane (np. maila), potem przeczyta
+regulamin i nie zaakceptuje go, ale dane ju¿ system sobie w tle zapisze. Z
+punktu widzenia u¿ytkownika jest to takie sobie :) Brakuje punktu o
+komunikacie potwierdzaj¹cym (aby u¿ytkownik wiedzia³, ¿e zosta³
+zarejestrowany), a tak¿e przyda³oby siê wys³anie maila weryfikacyjnego na
+mail podany przez nowo zarejestrowanego.
+13. UC05: Tak siê zastanawiam, czy tutaj bardziej intuicyjne nie by³oby
+umo¿liwienie rejestracji biletu od strony szczegó³ów danego wydarzenia
+(seansu, sztuki, cokolwiek), choæ mo¿e to byæ jako uzupe³nienie i inna
+droga do wykonania tej samej operacji. Przypadek u¿ycia tutaj jest ciut za
+d³ugi, a jeszcze nie uwzglêdnili Panowie komunikatu potwierdzaj¹cego
+realizacjê (a pewnie jeszcze przyda³aby siê jakaœ weryfikacja). Brakuje mi
+te¿ w rozszerzeniach wzmianki np. o braku wolnych miejsc braku akceptacji
+rezerwacji w punkcie 9. Ponadto, ograniczyli Panowie ten przypadek u¿ycia
+tylko do kina - czy system czasem nie ma byæ dostosowany do innych
+przybytków kultury?
+14. UC06: Wymaganie zaczyna siê ni st¹d, ni zow¹d. Powinna tu byæ
+referencja do wyœwietlenia np. wydarzenia, gdzie mo¿na znaleŸæ opiniê albo
+odpowiedni warunek wstêpny. Domyœlnie przyjmuje siê, ¿e znajdujemy siê na
+stronie g³ównej, a tam raczej nie ma od razu opinii ani opcji edycji. Tak
+samo przyda³oby siê poinformowanie autora opinii o jego edycji. Wymaganie
+do przemyœlenia.
+15. UC07: Podobne uwagi - opiniê dodaje siê do jakiegoœ obiektu, a nie tak
+"po prostu".
+16. UC08: Tak jak siê obawia³em, zbyt ogólne wymaganie. Prawdopodobnie
+wymaga podzielenia na wiele mniejszych, bardziej szczegó³owych i
+generalnie dobrego zaprojektowania tej opcji.
+17. UC09: Miêdzy punktami 3 i 4 brakuje jakiegoœ potwierdzenia. Koñcówka
+te¿ by wymaga³a jakiegoœ systemu weryfikacyjnego. Brakuje te¿ rozszerzeñ
+wynikaj¹cych z koniecznoœci zap³aty (brak œrodków/brak zap³aty itd.).
+18. UC10: Te¿ brakuje mi jakiegoœ punktu zaczepienia - od razu z g³ównego
+ekranu nie dostajemy siê do opcji edycji oferty. Reszta b³êdów podobna do
+tych z poprzednich wymagañ.
+
+Podsumowuj¹c, wydaje mi siê, ¿e przypadki u¿ycia (szczególnie te dotycz¹ce
+obs³ugi opinii) powinny byæ bardziej przemyœlane i cenne by³oby
+przypomnienie sobie koncepcji warunków wstêpnych, które rozwi¹za³yby parê
+problemów, a tak¿e - w mniejszym stopniu - referencji. Zdecydowanie te¿
+mo¿na by by³o powiêkszyæ zakres rozszerzeñ, bo wyraŸnie brakuje obs³ugi
+pewnych sytuacji wyj¹tkowych.
+
+Przykro mi, ale muszê te¿ uwzglêdniæ potê¿ne opóŸnienie w oddaniu pracy,
+wynosz¹ce a¿ 23 dni, czyli 11,5 punkta kary. Zaokr¹glê to jednak do 10
+punktów.
+
+Moja ocena: 4/20 punktów (14 bazowych punktów - 10 jako kara za opóŸnienie).
+
+Przypominam te¿, ¿e do 31 grudnia by³ do oddania trzeci dokument z
+wymaganiami pozafunkcjonalnymi oraz prototypami. Proszê jak najszybciej
+nadrobiæ zaleg³oœci, aby nie mieæ problemów z zaliczeniem przedmiotu.
+Proszê te¿ regularnie uczestniczyæ w zajêciach (i nie spóŸniaæ siê).
+
+
+
+-------------------------------------------------------------------------------------
+
+
+Micha³ Ratajczak <michal.krzysztof.ratajczak(ma³pa)gmail.com>	6 stycznia 2015 19:16
+Do: Jakub.Rojek(ma³pa)cs.put.poznan.pl
+Dobry wieczór,
+
+Przesy³am Panu projekt z NFR'ów i prototypowania.
+Prototypy s¹ w archiwum Zip w postaci obrazów png.
+
+Serdecznie prozdrawiam,
+Micha³ Ratajczak
+
+
+
+2 za³¹czników
+		NFRKulturalnyPoznan.pdf
+62K
+		PrototypyKulturalnyPoznan.zip
+695K 
