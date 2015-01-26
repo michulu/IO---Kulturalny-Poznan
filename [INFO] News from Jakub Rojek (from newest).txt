@@ -1,3 +1,59 @@
+[24.01.2014 9:14]
+
+Dzieñ dobry
+
+Dziêkujê za nades³an¹ pracê. Po przeczytaniu mam nastêpuj¹ce uwagi:
+
+1. W klasie MainPage, która nie jest abstrakcyjna, znajduje siê
+abstrakcyjna metoda refreshSite. Nale¿y zdecydowaæ siê na jedn¹ lub drug¹
+opcjê.
+2. W klasie CommentPage Ÿle jest pokazana kolekcja elementów rating.
+Powinno byæ int[5]. Nie jest to jednak du¿y b³¹d.
+3. Przyda³by siê nieco wiêkszy opis diagramu klas. Domyœli³em siê, ¿e
+klasy pokolorowane na ¿ó³to to s¹ poszczególne widoki w po³¹czeniu z
+kontrolerami.
+4. Za du¿o nieuzasadnionej kompozycji Panowie u¿ywaj¹. Przypominam, ¿e
+kompozycja to relacja klasy nadrzêdnej i podrzêdnej, gdzie ta druga jest
+na wy³¹cznoœæ pierwszej i s¹ zwi¹zane ze sob¹ cyklem ¿ycia. Nie wiem, czy
+tak jest w przypadku OfferPage i ReservationPage oraz w innych relacjach.
+5. Gdzieniegdzie widzê pola o typie nieprostym jak CSS, HTML, URL, Image
+itd. Jeœli coœ nie jest typem prostym, to powinno byæ zaznaczone na
+diagramie (choæby jako pusta klasa lub element API) albo opisane.
+6. Plik z diagramem stanów ma nazwê "sequence diagram" - takie drobne
+niedopatrzenie, ale nie wp³ywa ono na ocenê :)
+7. Nie wiem, czy jest sens wyró¿niaæ stan "edytowany", gdy¿ dla systemu
+tak naprawdê obiekt nie istnieje w stanie edycji - to tylko kopia lokalna
+u¿ytkownika, a po zmodyfikowaniu i zaakceptowaniu pozostaje w stanie
+"zaakceptowany".
+8. Starajmy siê trzymaæ jednej konwencji nazewnictwa stanów.
+"Zaakceptowany", "Do moderacji" jest dobre, ale "Nowoœæ" powinno nazywaæ
+siê "Nowy", a "Usuñ" - "Usuniêty".
+9. Czy mo¿e zajœæ sytuacja, ¿e obiekt (swoj¹ drog¹, nie ma nigdzie nazwy
+tego obiektu, nawet w nazwie pliku) nie zostanie zaakceptowany i od razu
+przejdzie do usuniêcia?
+
+Ca³kiem sk³adne diagramy, nie mam wiêkszych zastrze¿eñ. Nad pewnymi
+rzeczami trzeba bêdzie siê jeszcze zastanowiæ, ale tak naprawdê ka¿dy
+zespó³ uzupe³nia diagram ju¿ w czasie prac. Dobra robota.
+
+Moja ocena: 9,5/15 punkta (bazowo 13 punktów minus 3,5 punkta kary za
+opóŸnienie). W razie jakichkolwiek pytañ lub w¹tpliwoœci, proszê œmia³o
+pisaæ.
+
+Podsumowanie ocen za miniprojekt:
+
+Opis problemu: 7,75/10
+Specyfikacja wymagañ: 4/20
+Prototypy: 10/15
+Diagramy UML: 9,5/15
+
+£¹cznie 31,25/60 (52,08%). Przypominam, ¿e w sk³ad oceny z laboratorium
+wchodzi jeszcze czêœæ kolokwium pisanego na wyk³adzie. Je¿eli gdzieœ siê
+pomyli³em w obliczeniach, proszê pisaæ.
+
+Pozdrawiam,
+Jakub Rojek
+
 -------------------------------------------------------------------------
 [07.01.2015 20:46]
 
