@@ -304,3 +304,71 @@ Moja ocena: 10/15 punktów (bazowe punkty: 12,5, kara za opóźnienie: 2,5).
 
 Pozdrawiam,
 Jakub Rojek
+
+----------------------------------------------------------------------------------------
+[24.01.2015   09:14]
+
+Dzień dobry
+
+Dziękuję za nadesłaną pracę. Po przeczytaniu mam następujące uwagi:
+
+1. W klasie MainPage, która nie jest abstrakcyjna, znajduje się
+abstrakcyjna metoda refreshSite. Należy zdecydować się na jedną lub drugą
+opcję.
+2. W klasie CommentPage źle jest pokazana kolekcja elementów rating.
+Powinno być int[5]. Nie jest to jednak duży błąd.
+3. Przydałby się nieco większy opis diagramu klas. Domyśliłem się, że
+klasy pokolorowane na żółto to są poszczególne widoki w połączeniu z
+kontrolerami.
+4. Za dużo nieuzasadnionej kompozycji Panowie używają. Przypominam, że
+kompozycja to relacja klasy nadrzędnej i podrzędnej, gdzie ta druga jest
+na wyłączność pierwszej i są związane ze sobą cyklem życia. Nie wiem, czy
+tak jest w przypadku OfferPage i ReservationPage oraz w innych relacjach.
+5. Gdzieniegdzie widzę pola o typie nieprostym jak CSS, HTML, URL, Image
+itd. Jeśli coś nie jest typem prostym, to powinno być zaznaczone na
+diagramie (choćby jako pusta klasa lub element API) albo opisane.
+6. Plik z diagramem stanów ma nazwę "sequence diagram" - takie drobne
+niedopatrzenie, ale nie wpływa ono na ocenę :)
+7. Nie wiem, czy jest sens wyróżniać stan "edytowany", gdyż dla systemu
+tak naprawdę obiekt nie istnieje w stanie edycji - to tylko kopia lokalna
+użytkownika, a po zmodyfikowaniu i zaakceptowaniu pozostaje w stanie
+"zaakceptowany".
+8. Starajmy się trzymać jednej konwencji nazewnictwa stanów.
+"Zaakceptowany", "Do moderacji" jest dobre, ale "Nowość" powinno nazywać
+się "Nowy", a "Usuń" - "Usunięty".
+9. Czy może zajść sytuacja, że obiekt (swoją drogą, nie ma nigdzie nazwy
+tego obiektu, nawet w nazwie pliku) nie zostanie zaakceptowany i od razu
+przejdzie do usunięcia?
+
+Całkiem składne diagramy, nie mam większych zastrzeżeń. Nad pewnymi
+rzeczami trzeba będzie się jeszcze zastanowić, ale tak naprawdę każdy
+zespół uzupełnia diagram już w czasie prac. Dobra robota.
+
+Moja ocena: 9,5/15 punkta (bazowo 13 punktów minus 3,5 punkta kary za
+opóźnienie). W razie jakichkolwiek pytań lub wątpliwości, proszę śmiało
+pisać.
+
+Podsumowanie ocen za miniprojekt:
+
+Opis problemu: 7,75/10
+Specyfikacja wymagań: 4/20
+Prototypy: 10/15
+Diagramy UML: 9,5/15
+
+Łącznie 31,25/60 (52,08%). Przypominam, że w skład oceny z laboratorium
+wchodzi jeszcze część kolokwium pisanego na wykładzie. Jeżeli gdzieś się
+pomyliłem w obliczeniach, proszę pisać.
+
+Pozdrawiam,
+Jakub Rojek
+
+> Dzień dobry,
+>
+> Przesyłam Panu dwa obrazy jeden z diagramem UML, a drugi z diagramem
+> stanów.
+>
+> Serdecznie pozdrawiam
+> Michał Ratajczak
+
+
+------------------------------------------
